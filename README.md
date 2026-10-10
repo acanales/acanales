@@ -38,8 +38,6 @@ session recordings, plus a check of whether the page keeps the promise of the ad
 **3. Grow the revenue:** offer development, price experimentation, post-purchase
 AOV, subscription growth, and A/B tests whenever traffic supports them.
 
-Every test that closes, win or lose, goes into a cross-client learning library.
-
 **200+ DTC brands · $300M+ revenue generated**
 
 ## 🚀 GTM: what I'm going deep on
@@ -53,5 +51,8 @@ on strategy and messaging.
 
 ## 🛠️ What I'm building
 
-**AfterClickOS** 🚧 *work in progress*: an AI-powered operating system
-for CRO research, testing and reporting, built with Claude Code.
+**AfterClickOS** 🚧 *work in progress*: the system behind all of the above,
+built with Claude Code and MCP. It takes those signals from research to
+hypothesis to test to report, keeps a memory for each client, and feeds every
+result, win or lose, into a shared brain across clients, so each decision
+starts smarter than the last.
