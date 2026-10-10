@@ -42,9 +42,12 @@ Every test that closes, win or lose, goes into a cross-client learning library.
 
 ## 🚀 GTM: what I'm going deep on
 
-I'm a GTM enthusiast, learning by building. Right now that means outbound
-across email and LinkedIn for Unmade: segmented campaigns by platform,
-market and vertical, plus an AI-assisted prospecting engine.
+I'm a GTM enthusiast, learning by building. Right now I'm turning outbound
+into an agentic system built on Claude Code and MCP: agents pick up buying
+signals, enrich each lead, research the brand's live ads and store, and
+write personalized email and LinkedIn sequences. Every reply feeds back
+into the next campaign, so the engine keeps getting sharper while I focus
+on strategy and messaging.
 
 ## 🛠️ What I'm building
 
