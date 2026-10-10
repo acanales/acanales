@@ -52,7 +52,7 @@ on strategy and messaging.
 ## 🛠️ What I'm building
 
 **AfterClickOS** 🚧 *work in progress*: the system behind all of the above,
-built with Claude Code and MCP. It takes those signals from research to
-hypothesis to test to report, keeps a memory for each client, and feeds every
-result, win or lose, into a shared brain across clients, so each decision
-starts smarter than the last.
+built with Claude Code and MCP. It takes what customers say and do, plus what
+competitors run, from research to hypothesis to test to report, keeps a memory
+for each client, and feeds every result, win or lose, into a shared brain
+across clients, so each decision starts smarter than the last.
