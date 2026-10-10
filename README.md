@@ -7,7 +7,9 @@ to repeat purchase: go-to-market brings the right people in, and after-click
 funnels turn that intent into revenue.
 
 I build my own systems to run it: AI agents, research pipelines and
-automations that turn reviews, surveys, tests and sales data into decisions.
+automations that connect what customers say (reviews, surveys, support
+tickets), what they do (heatmaps, funnels, A/B tests, sales data) and what
+competitors run (ads, offers), and turn it into decisions.
 
 🌐 [unmade.design](https://www.unmade.design)
 
